@@ -1,5 +1,6 @@
-﻿![Imagem 1](./images/logo-principal-ifood.svg) 
-# Challenge iFood
+﻿![Imagem 1](./images/logo-principal-ifood.svg)
+
+# Challenge iFood e FIAP
 
 ## Projeto Vencedor do NEXT de 2024
 ![Imagem 1](./images/telas/foto-next.jpg)
@@ -8,6 +9,8 @@
 A FIAP, em parceria com o iFood, proporcionaram um desafio para criarmos uma aplicação destinada ao <i>backoffice</i> dos parceiros da marca. 
 
 O projeto foi elaborado como uma <i>landing page</i> que proporciona algumas funcionalidades e interações. Como visualizações de gráficos, cadastros e edição de pedidos, gerenciamento de funcinários e um mapa de calor (representativo) para identificar o local com maior incidência de pedidos.
+
+Acesse o site: [iFood Challenge](https://challenge-ifood-fiap.vercel.app/)
 
 ## Tecnologias Utilizadas
 
@@ -41,6 +44,38 @@ Aqui estão as seções principais da nossa apresentação. As imagens abaixo re
 |-------------------------------------------|-----------------------------------------------|
 | <p align="center">Tela de Pagamentos e Recebíveis</p> | <p align="center">Tela de Controle de Segurança</p> |
 
-## Como Executar o Projeto
+## Como Clonar o Repositório
 
-Acesse o site: [iFood Challenge](https://ifood-challenge-2024.vercel.app/)
+1. **Clone o Repositório**
+
+ Copie o link HTTPS ou SSH do repositório.
+  
+    https://github.com/juniorfacin/challenge-ifood-fiap.git
+
+    git@github.com:juniorfacin/challenge-ifood-fiap.git
+
+Abra seu terminal e execute o seguinte comando, substituindo `<link-do-repositório>` pelo link do repositório:
+
+2. **Abra o Projeto**
+
+ Após o download, navegue até a pasta do projeto usando o comando:
+ 
+    cd nome-da-pasta-do-projeto
+  
+Abra o projeto na sua IDE favorita. Por exemplo, para abrir no Visual Studio Code, use:
+
+    code .
+
+3. **Execute o Projeto**
+
+Abra o arquivo `index.html` no navegador ou siga as instruções específicas para iniciar o servidor.
+
+## Desenvolvedor
+
+Junior F.
+
+<div style="display: inline-block">
+  <a href="https://www.linkedin.com/in/osmarjosefacinjr" target="_blank" title="LinkedIn"><img loading="lazy" 
+src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
